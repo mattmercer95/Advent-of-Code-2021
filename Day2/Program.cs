@@ -72,11 +72,6 @@ namespace Day2
             string fileContent = File.ReadAllText(filename);
 
             string[] integerStrings = fileContent.Split(new char[] { '\n' }, StringSplitOptions.RemoveEmptyEntries);
-            
-            /*int[] integers = new int[integerStrings.Length];
-
-            for (int n = 0; n < integerStrings.Length; n++)
-                integers[n] = int.Parse(integerStrings[n]);*/
 
             return integerStrings;
         }
