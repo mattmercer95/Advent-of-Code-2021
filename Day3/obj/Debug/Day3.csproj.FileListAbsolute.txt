@@ -1,0 +1,7 @@
+C:\Users\matth\OneDrive - NBCC\Advent of Code 2021\Advent-of-Code-2021\Day3\bin\Debug\Day3.exe.config
+C:\Users\matth\OneDrive - NBCC\Advent of Code 2021\Advent-of-Code-2021\Day3\bin\Debug\Day3.exe
+C:\Users\matth\OneDrive - NBCC\Advent of Code 2021\Advent-of-Code-2021\Day3\bin\Debug\Day3.pdb
+C:\Users\matth\OneDrive - NBCC\Advent of Code 2021\Advent-of-Code-2021\Day3\obj\Debug\Day3.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive - NBCC\Advent of Code 2021\Advent-of-Code-2021\Day3\obj\Debug\Day3.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive - NBCC\Advent of Code 2021\Advent-of-Code-2021\Day3\obj\Debug\Day3.exe
+C:\Users\matth\OneDrive - NBCC\Advent of Code 2021\Advent-of-Code-2021\Day3\obj\Debug\Day3.pdb
